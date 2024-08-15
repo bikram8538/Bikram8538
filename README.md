@@ -1,8 +1,6 @@
 - 👋 Hi, I’m "Bikram Bagdi" .
-- 👀 I’m interested in Java. 
+- 👀 I’m learning Web Development. 
 - 🌱 I’m currently learning Java. 
-- 💞️ I’m looking to collaborate with a team. 
-- 📫 How to reach me a good coder. 
 
 <!---
 Bikram8538/Bikram8538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
