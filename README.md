@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "Bikram Bagdi" .
-- 👀 I’m learning Web Development. 
-- 🌱 I’m currently learning JavaScript. 
+- 👀 I’m Frontend Developer. 
+- 🌱 I’m Civil Engineer. 
 
 <!---
 Bikram8538/Bikram8538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
