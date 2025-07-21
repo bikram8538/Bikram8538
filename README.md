@@ -1,8 +1,69 @@
-- 👋 Hi, I’m "Bikram Bagdi" .
-- 👀 I’m Frontend Developer. 
-- 🌱 I’m Civil Engineer. 
+---
 
-<!---
-Bikram8538/Bikram8538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=ff0000&center=true&vCenter=true&width=800&lines=Walking+by+Faith%2C+not+by+Sight.;Jesus+is+the+Way%2C+the+Truth%2C+and+the+Life.;Saved+by+Grace+through+Faith.;I+can+do+all+things+through+Christ+who+strengthens+me."/>
+</p>
+
+---
+
+<h1 align="center">Hi, I'm <strong>BIKRAM BAGDI</strong></h1>
+<h3 align="right">~ HTML Frontend Developer</h3>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
+- 💻 I’m focused on learning **HTML Frontend Development**
+- 🎯 My life goal is to be **healthy and wealthy with integrity**
+- 🧠 Exploring Full Stack Web Development & Open Source
+
+---
+
+## 💼 Tech Stack
+
+```text
+Languages     : HTML, CSS, JavaScript, Python
+Frameworks    : Bootstrap, jQuery
+Tools         : Git, GitHub, VS Code, PyCharm, Chrome DevTools
+Operating Sys : Windows & macOS
+````
+
+---
+
+## 🚀 Goals for 2025
+
+* 🔄 Learn Full Stack Development
+* 💡 Contribute to Open Source
+* 🌐 Build and deploy my portfolio website
+* 💼 Land my first tech job!
+
+---
+
+## 📌 Pinned Projects
+
+Here are some of my favorite mini-projects:
+
+* 🎲 [Dicee Game](https://github.com/bikram8538/Dicee)
+* 🥁 [Drum Kit](https://github.com/bikram8538/drumKit)
+* 💻 [Live Code Editor](https://github.com/bikram8538/live-code-editor)
+
+---
+
+## 🎯 Hobbies & Fun
+
+* 📚 Reading Books
+* 🌅 Morning Coding
+* 🏋️‍♂️ Hitting the Gym
+* 🍳 Making Food
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [bikram8538@gmail.com](mailto:bikram8538@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/bikram8530](https://www.linkedin.com/in/bikram8530)
+
+---
+
+> *“Keep learning. Keep building. Keep growing.”*
