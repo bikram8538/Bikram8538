@@ -45,7 +45,7 @@ Operating Sys : Windows & macOS
 Here are some of my favorite mini-projects:
 
 * 🎲 [Dicee Game](https://bikram8538.github.io/Dicee)
-* 🥁 [Drum Kit](https://bikram8538.github.io/drumKit)
+* 🥁 [Drum Kit](https://bikram8538.github.io/drumKit/)
 * 💻 [Live Code Editor](https://bikram8538.github.io/live-code-editor)
 
 ---
