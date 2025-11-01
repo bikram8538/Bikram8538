@@ -40,7 +40,22 @@ Operating Sys : Windows & macOS
 
 ## 📌 Pinned Projects
 
-Here are some of my favorite mini-projects:
+Here are some of my Fully Responsive Projects:
+
+* [Ajobs - Multiple Page](https://bikram8538.github.io/ajobs/)
+* [Reminiscenes](https://bikram8538.github.io/reminiscenes/)
+* [ZapCap](https://bikram8538.github.io/zapcap/)
+* [Axiom](https://bikram8538.github.io/axiom/)
+* [Nexa-NFT](https://bikram8538.github.io/nexa-nft/)
+* [CryptoVerse](https://bikram8538.github.io/cryptoverse/)
+* [Vdo](https://bikram8538.github.io/vdo/)
+* [Job Portal](https://bikram8538.github.io/job-portal/)
+* [Bookfocal](https://bikram8538.github.io/bookfocal/)
+* [Skinly](https://bikram8538.github.io/skinly/)
+
+---
+
+Here are some of my favorite fun-projects:
 
 * 🎲 [Dicee Game](https://bikram8538.github.io/Dicee)
 * 🥁 [Drum Kit](https://bikram8538.github.io/drumKit/)
