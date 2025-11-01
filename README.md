@@ -11,30 +11,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
+- 🎓 I’m a **Frontend Developer** passionate about building modern, Fully Responsive Websites
 - 💻 I’m focused on learning **HTML Frontend Development**
-- 🎯 My life goal is to be **healthy and wealthy with integrity**
-- 🧠 Exploring Full Stack Web Development & Open Source
-
----
-
-## 💼 Tech Stack
-
-```text
-Languages     : HTML, CSS, JavaScript, Python
-Frameworks    : Bootstrap, jQuery
-Tools         : Git, GitHub, VS Code, PyCharm, Chrome DevTools
-Operating Sys : Windows & macOS
-````
-
----
-
-## 🚀 Goals for 2025
-
-* 🔄 Learn Full Stack Development
-* 💡 Contribute to Open Source
-* 🌐 Build and deploy my portfolio website
-* 💼 Land my first tech job!
+- -🧠 Skilled in **HTML, CSS, Bootstrap, JavaScript, jQuery, and AOS.**
+ -🎯 My goal is to keep improving **my skills and grow into a highly efficient and creative.**
 
 ---
 
@@ -60,6 +40,17 @@ Here are some of my favorite fun-projects:
 * 🎲 [Dicee Game](https://bikram8538.github.io/Dicee)
 * 🥁 [Drum Kit](https://bikram8538.github.io/drumKit/)
 * 💻 [Live Code Editor](https://bikram8538.github.io/live-code-editor)
+
+---
+
+## 💼 Tech Stack
+
+```text
+Languages     : HTML, CSS, JavaScript, Python
+Frameworks    : Bootstrap, jQuery
+Tools         : Git, GitHub, VS Code, PyCharm, Chrome DevTools
+Operating Sys : Windows & macOS
+````
 
 ---
 
