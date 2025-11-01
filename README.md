@@ -12,9 +12,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 I’m a **Frontend Developer** passionate about building modern, Fully Responsive Websites
-- 💻 I’m focused on learning **HTML Frontend Development**
-- -🧠 Skilled in **HTML, CSS, Bootstrap, JavaScript, jQuery, and AOS.**
- -🎯 My goal is to keep improving **my skills and grow into a highly efficient and creative.**
+- 🧠 Skilled in **HTML, CSS, Bootstrap, JavaScript, jQuery, and AOS.**
+- 🎯 My goal is to keep improving **my skills and grow into a highly efficient and creative.**
 
 ---
 
