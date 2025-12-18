@@ -46,7 +46,7 @@ Here are some of my favorite fun-projects:
 
 ```text
 Languages     : HTML, CSS, JavaScript, Python
-Frameworks    : Bootstrap, jQuery
+Frameworks    : Bootstrap, jQuery, Tailwind
 Tools         : Git, GitHub, VS Code, PyCharm, Chrome DevTools
 Operating Sys : Windows & macOS
 ````
@@ -65,7 +65,7 @@ Operating Sys : Windows & macOS
 ## 📫 Connect With Me
 
 * 📧 Email: [bikram8538@gmail.com](mailto:bikram8538@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/bikram8530](https://www.linkedin.com/in/bikram8530)
+* 💼 LinkedIn: [linkedin.com/in/bikram8538](https://www.linkedin.com/in/bikram8538)
 
 ---
 
