@@ -1,13 +1,12 @@
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=16&pause=1000&color=800080&center=true&vCenter=true&width=800&lines=I+can+do+all+things+through+Christ+who+strengthens+me.;Walking+by+Faith%2C+not+by+Sight.;Jesus+is+the+Way%2C+the+Truth%2C+and+the+Life.;Saved+by+Grace+through+Faith."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=20&pause=1000&color=800080&center=true&vCenter=true&width=800&lines=I+can+do+all+things+through+Christ+who+strengthens+me.;Walking+by+Faith%2C+not+by+Sight.;Jesus+is+the+Way%2C+the+Truth%2C+and+the+Life.;Saved+by+Grace+through+Faith."/>
 </p>
 
 ---
-<h1 align="center">Hi, I'm <strong>BIKRAM BAGDI</strong></h1>
-<h3 align="right">~ HTML Frontend Developer</h3>
+<h1 align="center">Hey, I'm <strong>Bikram</strong></h1>
+<!-- <h3 align="right">~ HTML Frontend Developer</h3> -->
 
----
 
 ## 🙋‍♂️ About Me
 
