@@ -11,34 +11,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m a **Frontend Developer** passionate about building modern, Fully Responsive Websites
-- 🧠 Skilled in **HTML, CSS, Bootstrap, JavaScript, jQuery, and AOS.**
-- 🎯 My goal is to keep improving **my skills and grow into a highly efficient and creative.**
-
----
-
-## 📌 Pinned Projects
-
-Here are some of my Fully Responsive Projects:
-
-* [Ajobs - Multiple Page](https://bikram8538.github.io/ajobs/)
-* [Reminiscenes](https://bikram8538.github.io/reminiscenes/)
-* [ZapCap](https://bikram8538.github.io/zapcap/)
-* [Axiom](https://bikram8538.github.io/axiom/)
-* [Nexa-NFT](https://bikram8538.github.io/nexa-nft/)
-* [CryptoVerse](https://bikram8538.github.io/cryptoverse/)
-* [Vdo](https://bikram8538.github.io/vdo/)
-* [Job Portal](https://bikram8538.github.io/job-portal/)
-* [Bookfocal](https://bikram8538.github.io/bookfocal/)
-* [Skinly](https://bikram8538.github.io/skinly/)
-
----
-
-Here are some of my favorite fun-projects:
-
-* 🎲 [Dicee Game](https://bikram8538.github.io/Dicee)
-* 🥁 [Drum Kit](https://bikram8538.github.io/drumKit/)
-* 💻 [Live Code Editor](https://bikram8538.github.io/live-code-editor)
+- 🎓 **HTML Frontend Developer** passionate about building modern, Fully Responsive Websites
+- 🎯 My goal is to use my skills to provide value and grow as a highly efficient and creative professional.
 
 ---
 
@@ -55,9 +29,8 @@ Operating Sys : Windows & macOS
 
 ## 🎯 Hobbies & Fun
 
-* 📚 Reading Books
-* 🌅 Morning Coding
 * 🏋️‍♂️ Hitting the Gym
+* 📚 Reading Books
 * 🍳 Making Food
 
 ---
