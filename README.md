@@ -38,6 +38,7 @@ Operating Sys : Windows & macOS
 
 * 📧 Email: [bikram8538@gmail.com](mailto:bikram8538@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/bikram8538](https://www.linkedin.com/in/bikram8538)
+* 🌐 Portfolio: [https://bikram-bagdi.vercel.app/] (https://bikram-bagdi.vercel.app/)
 
 ---
 
